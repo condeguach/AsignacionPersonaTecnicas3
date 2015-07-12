@@ -100,7 +100,7 @@ public class Registrarp extends javax.swing.JFrame {
             }
         });
         getContentPane().add(jbRegistrar);
-        jbRegistrar.setBounds(70, 300, 139, 50);
+        jbRegistrar.setBounds(70, 300, 160, 50);
 
         jbLista.setBackground(new java.awt.Color(102, 255, 255));
         jbLista.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
